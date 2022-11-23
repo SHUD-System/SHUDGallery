@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Simulator of Hydrologic Unstructured Domains (SHUD)
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,16 +9,16 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
+# organizations:
 #- name: 腾讯
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Simulator of Hydrologic Unstructured Domains
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'about/#contact' # For a direct email link, use "mailto:admin@shuddata.com".
+  - icon: weixin
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
+  - icon: link
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.shud.xyz
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
