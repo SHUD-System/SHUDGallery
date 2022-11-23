@@ -49,7 +49,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/wowchemy
   - icon: link
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.shud.xyz
 # Uncomment below for Github link
 #- icon: github
@@ -66,8 +66,16 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Simulator for Hydrologic Unstructured Domains (SHUD - pronounced “SHOULD”) is a multi-process, multi-scale integrated hydrological model using the semi-discrete Finite Volume Method.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Spatial strucutre**: Unstructed mesh domain — irregulated triangular network. Three vertical layers: land surface, unstructured and saturated layers.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+**Time-step**: Adaptive time-step based on the spatial resolution and slow-fast hydrological processes. The normal time-step ranges from 1 ~ 60 seconds.
+
+The SHUD modeling system is of quick, reproducible and automatic hydrological modeling.
+
+
+Please visit {{< icon name="link" pack="fas" >}} {{< staticref "https://www.shud.xyz" "newtab" >}}https://www.shud.xyz{{< /staticref >}} for more information of SHUD.
+
+<!--{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+-->
