@@ -6,3 +6,5 @@ resources/
 public/
 assets/jsconfig.json
 .Rproj.user
+.DS_Store
+.Rhistory
