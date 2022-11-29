@@ -10,3 +10,6 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: SHUD
+    url: 'https://www.shud.xyz/'
+    weight: 99
