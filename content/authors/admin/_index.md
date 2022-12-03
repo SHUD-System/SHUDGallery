@@ -44,7 +44,7 @@ bio: Simulator of Hydrologic Unstructured Domains
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:admin@shuddata.com".
+    link: 'mailto:admin@shuddata.com' # For a direct email link, use "mailto:admin@shuddata.com".
   - icon: weixin
     icon_pack: fab
     link: info/gzh.png
