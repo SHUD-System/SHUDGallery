@@ -47,7 +47,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:admin@shuddata.com".
   - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: info/gzh.png
   - icon: link
     icon_pack: fas
     link: https://www.shud.xyz

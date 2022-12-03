@@ -27,7 +27,7 @@ design:
     image_parallax: true
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false      
-  css_class: fullscreen
+  #css_class: fullscreen
 ---
 
 👋 This is a gallery for SHUD modeling in 2D and 3D.
